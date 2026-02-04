@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "sessionId": "957833dc-c1bc-496b-85e6-9387e9e294c7",
+      "fullPath": "/home/chubi/.claude/projects/-home-chubi-Git-NOM/957833dc-c1bc-496b-85e6-9387e9e294c7.jsonl",
+      "fileMtime": 1769042772089,
+      "firstPrompt": "<ide_opened_file>The user opened the file /home/chubi/Descargas/PLANE/.env in the IDE. This may or may not be related to the current task.</ide_opened_file>",
+      "messageCount": 30,
+      "created": "2026-01-20T21:51:38.459Z",
+      "modified": "2026-01-22T00:46:12.079Z",
+      "gitBranch": "develop",
+      "projectPath": "/home/chubi/Git/NOM",
+      "isSidechain": false
+    },
+    {
+      "sessionId": "59f584d3-db25-469a-a7d6-913a4343e54e",
+      "fullPath": "/home/chubi/.claude/projects/-home-chubi-Git-NOM/59f584d3-db25-469a-a7d6-913a4343e54e.jsonl",
+      "fileMtime": 1766589951729,
+      "firstPrompt": "el agente project-manager-dotnet requiero que le heches un vistazo al proyecto NOM. me gustaria que lo revisara el agente back end para que revise la NOM.API. esta NOM tiene la intencion de gestionar…",
+      "messageCount": 62,
+      "created": "2025-12-23T00:30:09.813Z",
+      "modified": "2025-12-24T15:25:51.473Z",
+      "gitBranch": "develop",
+      "projectPath": "/home/chubi/Git/NOM",
+      "isSidechain": false
+    }
+  ]
+}

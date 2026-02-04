@@ -1,0 +1,44 @@
+O# 🔒 CREDENCIALES - NUNCA SUBIR
+.credentials.json
+*.credentials*
+.env
+*.key
+*secret*
+auth.json
+api_keys/
+
+# 📁 Archivos temporales/cache de Claude
+debug/
+file-history/
+session-env/
+shell-snapshots/
+stats-cache.json
+statsig/
+*.log
+*.cache
+
+# 🗂️ Archivos de IDE/sistema
+.vscode/
+.idea/
+.DS_Store
+*.swp
+*.swo
+*~
+
+# 🐍 Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env
+
+# 📦 Node
+node_modules/
+package-lock.json
+
+# 🔨 Build artifacts
+dist/
+build/
+*.exe
+*.dll
+EOF
